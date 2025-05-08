@@ -12,5 +12,5 @@ cout << "\nTU MONTO A PAGAR ES = " << total ;
 } else {
     cout << "\nGRACIAS POR TU COMPRA, TU MONTO A PAGAR ES = " << compra;
 }
-
+return 0;
 }
