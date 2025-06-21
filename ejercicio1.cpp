@@ -3,10 +3,10 @@
 using namespace std; 
 
 int main(void){
-    int n; 
+    int numero; 
 
     cout <<"Escribe mi edad :\n";
-    cin >> n;
+    cin >> numero;
 
     if(n < 18){
         cout <<"Aun es menor de edad \n";
