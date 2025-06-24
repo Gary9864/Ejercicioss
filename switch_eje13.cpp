@@ -9,43 +9,43 @@ int main() {
 
   switch (mes) {
     case 1:
-      signo = "Acuario" << endl;    
-      break;
+        signo = "Acuario";    
+        break;
     case 2:
-      signo = "Piscis" << endl;         
-      break;
+        signo = "Piscis";         
+        break;
     case 3:
-      signo = "Aries" << endl;         
-      break;
+        signo = "Aries";         
+        break;
     case 4:
-      signo = "Tauro" << endl;         
-      break;
+        signo = "Tauro";         
+        break;
     case 5:
-      signo = "Geminis" << endl;      
-      break;
+        signo = "Geminis";      
+        break;
     case 6:
-      signo = "Cancer" << endl;         
-      break;
+        signo = "Cancer";         
+        break;
     case 7:
-      signo = "Leo" << endl;        
-      break;
+        signo = "Leo";        
+        break;
     case 8:
-      signo = "Virgo" << endl;          
-      break;
+        signo = "Virgo";          
+        break;
     case 9:
-      signo = "Libra" << endl;         
-      break;
+        signo = "Libra";         
+        break;
     case 10:
-      signo = "Escorpio" << endl;       
-      break;
+        signo = "Escorpio";       
+        break;
     case 11:
-      signo = "Sagitario" << endl;      
-      break;
+        signo = "Sagitario";      
+        break;
     case 12:
-      signo = "Capricornio" << endl;    
-      break;
+        signo = "Capricornio";    
+        break;
     default:
-      signo = "Mes invalido" << endl;
+        signo = "Mes invalido";
   }
 
   cout << "Tu signo zodiacal es: " << signo << endl;
