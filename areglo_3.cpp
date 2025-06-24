@@ -16,8 +16,8 @@ int main(){
     }
     float promedio = suma / n;
     
-    cout << "la suma de todos los numeros es "<< suma << endl;
-    cout << "El promedio de la suma de los numeros es "<< promedio << endl;
+    cout << "la suma de todos los numeros es: "<< suma << endl;
+    cout << "El promedio de la suma de los numeros es: "<< promedio << endl;
 
 
 
